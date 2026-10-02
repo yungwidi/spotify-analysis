@@ -1,0 +1,10 @@
+{
+  "python": "3.14.7",
+  "fresh_download_verified": true,
+  "reconstruction_notebooks_passed": 4,
+  "processed_sha256": "fdf75c13065e1fee5b94f14e8775fd878cd2d987afc9e9647e04ea8d9c738e57",
+  "processed_file_identical": true,
+  "analytical_metrics_identical": true,
+  "same_environment_used": true,
+  "second_operating_system_tested": false
+}

@@ -1,0 +1,8 @@
+{
+  "catalog_rows": 524208,
+  "queries": 80,
+  "recommended_valence_gap": 0.19127175000000002,
+  "random_valence_gap": 0.3184795,
+  "improvement_ci_low": 0.09543420624999999,
+  "improvement_ci_high": 0.15749731875
+}

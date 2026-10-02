@@ -1,0 +1,8 @@
+{
+  "paired_artists": 1200,
+  "mean_energy_change": 0.049075845573003554,
+  "ci_low": 0.03870580998501881,
+  "ci_high": 0.0594458811609883,
+  "p_value": 7.357958323029404e-20,
+  "standardized_paired_effect": 0.26803014241464784
+}

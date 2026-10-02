@@ -1,0 +1,51 @@
+{
+  "selected_model": "Boosting audio + year",
+  "test_rows": 14647,
+  "test_artists": 4575,
+  "validation": [
+    {
+      "model": "Boosting audio + year",
+      "MAE": 10.307818352940037,
+      "RMSE": 13.363825875639998,
+      "R2": 0.4250335721035011
+    },
+    {
+      "model": "Boosting audio",
+      "MAE": 11.958901503852072,
+      "RMSE": 14.963706749801936,
+      "R2": 0.2791261899578451
+    },
+    {
+      "model": "Ridge audio",
+      "MAE": 12.84791547792686,
+      "RMSE": 15.918812817921731,
+      "R2": 0.18416520731650876
+    },
+    {
+      "model": "Median baseline",
+      "MAE": 14.437157024793388,
+      "RMSE": 17.639894679320527,
+      "R2": -0.0017811280725479328
+    }
+  ],
+  "test": [
+    {
+      "model": "Boosting audio + year",
+      "MAE": 10.23205320632408,
+      "RMSE": 13.251574682769244,
+      "R2": 0.4068942030675293
+    },
+    {
+      "model": "Median baseline",
+      "MAE": 14.302382740492934,
+      "RMSE": 17.28133190199636,
+      "R2": -0.00867582993988858
+    }
+  ],
+  "artist_weighted_MAE": 10.433788713414996,
+  "artist_MAE_ci": [
+    10.215239436352524,
+    10.651162978176542
+  ],
+  "top_permutation_feature": "year"
+}

@@ -1,0 +1,8 @@
+{
+  "sample_rows": 30000,
+  "clusters": 3,
+  "silhouette": 0.2535424935591778,
+  "pca_two_component_variance": 0.48165011927505963,
+  "seed_stability_ari": 0.9993674182263432,
+  "decade_nmi": 0.07766782863207665
+}

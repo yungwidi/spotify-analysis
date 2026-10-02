@@ -1,0 +1,17 @@
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.vscode/
+.idea/
+.venv/
+.runtime/
+*.part
+reports/*.png
+reports/*.html
+reports/validation.json
